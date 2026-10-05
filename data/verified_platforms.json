@@ -1,0 +1,42 @@
+[
+  {
+    "id": "apple_in",
+    "name": "Apple Official Store",
+    "domain": "apple.com",
+    "type": "Official Brand Store",
+    "trust_score": 100,
+    "supports_quick_commerce": false
+  },
+  {
+    "id": "amazon_in",
+    "name": "Amazon India",
+    "domain": "amazon.in",
+    "type": "E-Commerce Giant",
+    "trust_score": 98,
+    "supports_quick_commerce": false
+  },
+  {
+    "id": "flipkart",
+    "name": "Flipkart",
+    "domain": "flipkart.com",
+    "type": "E-Commerce Giant",
+    "trust_score": 95,
+    "supports_quick_commerce": false
+  },
+  {
+    "id": "blinkit",
+    "name": "Blinkit",
+    "domain": "blinkit.com",
+    "type": "Quick Commerce",
+    "trust_score": 92,
+    "supports_quick_commerce": true
+  },
+  {
+    "id": "croma",
+    "name": "Croma Electronics",
+    "domain": "croma.com",
+    "type": "Retail Chain",
+    "trust_score": 96,
+    "supports_quick_commerce": false
+  }
+]
